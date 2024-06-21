@@ -14,6 +14,29 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+# COVID-19 Dashboard
+
+This project is a dynamic dashboard built with React to visualize COVID-19 data. The dashboard fetches data from a public API and displays it using various charts and tables. It includes interactive elements to filter data by country and is styled for a responsive and visually appealing user experience.
+
+## Project Description
+
+The COVID-19 Dashboard aims to provide users with an intuitive interface to explore global COVID-19 statistics. It features:
+
+- A header section with a title and brief description.
+- Two types of data visualizations: a line chart and a data table.
+- Interactive elements such as a filter input to search for specific countries.
+- I used dummy data of contries
+- Responsive design to ensure compatibility across devices.
+- Advanced styling using `styled-components`.
+
+## Setup Instructions
+
+1. **Clone the repository:**
+   ```sh
+   git clone <repository-url>
+   cd dynamic-dashboard
+   ```
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
